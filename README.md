@@ -112,6 +112,7 @@ Before using this configuration to debug TVM, we should install the following ex
 
  - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb): Search `vadimcn.vscode-lldb` in VSCode extension marketplace.
  - [​Python C++ Debugger​​](https://marketplace.visualstudio.com/items?itemName=benjamin-simmonds.pythoncpp-debug): Search `benjamin-simmonds.pythoncpp-debug` in VSCode extension marketplace.
+ - [LLDB DAP](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap): Search `llvm-vs-code-extensions.lldb-dap` in VSCode extension marketplace.
 
 After installing the extensions, we should copy the `.vscode/launch.json` file to the root directory of your own project. And the next steps will explain some details that you should modify in the `launch.json` file.
 
